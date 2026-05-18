@@ -1,9 +1,4 @@
-# 🌍 Net Zero 2050 Analysis Dashboard
-
-![Dashboard Preview](ADD_YOUR_SCREENSHOT_LINK_HERE)
-
----
-
+# 🌍 Net Zero 2050 Analysis Dashbod
 ## 📌 Project Description
 Net Zero 2050 is an Excel-based data analytics project focused on analyzing global energy transition trends, carbon emission reduction pathways, electricity generation transformation, and energy efficiency strategies required to achieve Net Zero emissions by 2050.
 
